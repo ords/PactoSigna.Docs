@@ -148,8 +148,8 @@ Each document type has a prescribed ID format. The `{NNN}` placeholder represent
 | Software Risk  | `RISK-SW`   | `RISK-SW-{NNN}`   | `docs/risk/software/`   | `RISK-SW-001`   |
 | Security Risk  | `RISK-SEC`  | `RISK-SEC-{NNN}`  | `docs/risk/security/`   | `RISK-SEC-001`  |
 | Usability Risk | `RISK-USE`  | `RISK-USE-{NNN}`  | `docs/risk/usability/`  | `RISK-USE-001`  |
-| Situation Risk | `RISK-SIT`  | `RISK-SIT-{NNN}`  | `docs/risk/situations/` | `HS-001`  |
-| Harm           | `RISK-HARM` | `RISK-HARM-{NNN}` | `docs/risk/harms/`      | `HARM-001` |
+| Situation Risk | `HS`        | `HS-{NNN}`        | `docs/risk/situations/` | `HS-001`  |
+| Harm           | `HARM`      | `HARM-{NNN}`      | `docs/risk/harms/`      | `HARM-001` |
 
 ### 4.5 Test Documents
 
